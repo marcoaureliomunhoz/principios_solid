@@ -39,4 +39,5 @@ _Princípio da Inversão de Dependência ou Inversão de Controle ou Injeção d
 **Fontes**  
 - https://en.wikipedia.org/wiki/SOLID_(object-oriented_design) 
 - https://www.youtube.com/watch?v=Q2QdkiX6p_Y (Eduardo Pires)
+- https://www.youtube.com/watch?v=i9Il79a2uBU (Eduardo Pires)
 - https://brizeno.wordpress.com/solid
