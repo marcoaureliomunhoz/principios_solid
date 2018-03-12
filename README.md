@@ -22,8 +22,10 @@ _Princípio do Aberto/Fechado_
 
 **Liskov Substitution Principle - LSP**  
 _Princípio da Substituição de Liskov_  
-- Objetos de uma classe devem ser substituíveis por objetos de subclasses sem problemas.
+- Objetos de uma classe devem ser substituíveis por objetos de subclasses sem problemas (herança e polimorfismo).
 - Esse princípio prega a aplicação do Polimorfismo, mas nem sempre é possível aplicar o polimorfismo, por mais que pareça possível.  
+- Tome cuidado com a herança. Esta só deve ser usada quando de fato existe hierarquia.
+- Evite herança quando se busca apenas reaproveitamento de código (diminuição de código). Nestes casos a melhor opção é o uso de **composição/agregação**.
 
 **Interface Segregation Principle - ISP**  
 _Princípio da Segregação de Interfaces_  
