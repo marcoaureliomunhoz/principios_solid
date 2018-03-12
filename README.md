@@ -17,6 +17,8 @@ _Princípio da Responsabilidade Única_
 **Open/Closed Principle - OCP**  
 _Princípio do Aberto/Fechado_  
 - Entidades de software (classes, módulos, funções, arquivos, etc) devem estar abertas para estensão, mas fechadas para modificações. 
+- Torne os atributos de uma classe privados, ou seja, não deixe que o cliente altere/modifique o estado sem acionar métodos da própria classe. 
+- Tome cuidado ao permitir a sobrescrita de métodos. No C# evite usar **virtual**.
 
 **Liskov Substitution Principle - LSP**  
 _Princípio da Substituição de Liskov_  
